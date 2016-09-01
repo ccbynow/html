@@ -1,1 +1,2 @@
-hhfhhfhfhfhfhfhfh
+<?php
+phpinfo();
